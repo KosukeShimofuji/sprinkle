@@ -1,17 +1,19 @@
+sprinkle add a verb or a noun randomly to a given word.
+
+ * usage
 
 ```
-$ for i in $(seq 0 9); do
->   echo "coffee" | ./sprinkle
-> done
-coffeepart
-coffeeprior
-coffeeworth
-coffeecigarette
-sailcoffee
-spoilcoffee
-coffeeanybody
-coffeelead
-coffeeminor
-coffeelaw
+for i in $(seq 0 10); do  echo "cyber" | ./sprinkle ; done
+arguecyber
+cyberbasis
+ordercyber
+cyberskill
+cyberattack
+cyberanger
+cyberbunch
+examinecyber
+cyberjudge
+cyberworry
+cybermanner
 ```
 
